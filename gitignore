@@ -1,0 +1,7 @@
+# Compiled class file
+*.class
+.classpath
+.project
+.settings/
+
+java_lmh/.gitignore
